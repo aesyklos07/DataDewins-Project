@@ -1,4 +1,4 @@
-# datadewins-mini-project Group 3
+# datadewins-mini-project: Group 3
 to use the project:
 1.download the zip file of the project
 2. extract the zipped flie
